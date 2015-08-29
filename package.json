@@ -1,0 +1,15 @@
+{
+  "name": "weather-mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Micah Fitzgerald",
+  "license": "ISC",
+  "dependencies": {
+    "cities": "^1.1.1",
+    "forecast": "^0.2.1"
+  }
+}
